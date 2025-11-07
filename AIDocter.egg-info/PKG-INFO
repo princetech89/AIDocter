@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: AIDocter
+Version: 0.1.0
+Author: PRINCE
+Author-email: chourasiya8919@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
